@@ -1,0 +1,4 @@
+Ich möchte für meine Prüfungsleistung einen Sortieralgorithmus für das Reifenmanagement in der Formel 1 erstellen.
+Anhand der verschiedenen Fahrer aus verschiedenen Teams mit jeweils unterschiedlichen Taktiken und auch Endplatzierung auf den 3 verschiedenen Strecken,
+kann man beispielsweise für jede Strecke die ideale Taktik sortieren. Außerdem könnte man nach dem Reifenverschleiß sortieren. 
+Da ich ebenfalls die Kosten für die Reifensätze für die jeweiligen Fahrer und Strecken berechnet habe, kann ich außerdem nach Streckenkosten oder Gesamtkosten pro Fahrer sortieren.
